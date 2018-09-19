@@ -28,6 +28,15 @@ Skills are execute by pressing hotkeys
 Very basic main menu with transtion to main gameplay level
 Option to mute sound
 
+HOW TO RUN IT?
+You need Unity in version 5.0+ and open this as project
+
+Where is the code?
+All scripts used in-game are in 
+/LosTresDelRio/Assets/Scripts/ 
+
+
+
 Credits to all authors of assets i used in this project
 For textures I used this website : http://www.textures.com/
 For sound effects : http://www.freesound.org/
